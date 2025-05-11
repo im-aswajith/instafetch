@@ -4,7 +4,7 @@ import os
 import re
 import uuid
 
-BOT_TOKEN = "7692701398:AAHit0eA14I4gqMCI2BfrzbQBmSHM6_gS4I"
+BOT_TOKEN = "TELEGRAM-BOT-API"
 bot = telebot.TeleBot(BOT_TOKEN)
 ig = instaloader.Instaloader()
 
